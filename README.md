@@ -1,2 +1,4 @@
 # hello-world
-Week 15 Lab 1 Github Hello World Practice
+
+Hi, my name is Ruchit Patel and I am a Junior at UTD.
+I love to bike and love traveling.
